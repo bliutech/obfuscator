@@ -14,6 +14,8 @@
 #ifndef LLVM_TOOLS_LLVM_XRAY_XRAY_SLEDS_H
 #define LLVM_TOOLS_LLVM_XRAY_XRAY_SLEDS_H
 
+#include <cstdint>
+
 namespace llvm {
 namespace xray {
 
