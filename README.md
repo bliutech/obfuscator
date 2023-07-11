@@ -1,6 +1,6 @@
 # Obfuscator LLVM (OLLVM)
 
-This repository is a fork of [obfuscator-llvm/obfuscator](https://github.com/obfuscator-llvm/obfuscator) with patches and updates since the original project is no longer maintained. For more information about the origina project, please visit the original project's [wiki](https://github.com/obfuscator-llvm/obfuscator/wiki)! Currently, this repository patches the [LLVM-4.0](https://github.com/obfuscator-llvm/obfuscator/tree/llvm-4.0) version of the project.
+This repository is a fork of [obfuscator-llvm/obfuscator](https://github.com/obfuscator-llvm/obfuscator) with patches and updates since the original project is no longer maintained. For more information about the original project, please visit the original project's [wiki](https://github.com/obfuscator-llvm/obfuscator/wiki)! Currently, this repository patches the [LLVM-4.0](https://github.com/obfuscator-llvm/obfuscator/tree/llvm-4.0) version of the project.
 
 ## Installation
 The following are slightly modified installation instructions from the original project to build this repository.
